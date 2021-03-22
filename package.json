@@ -1,0 +1,19 @@
+{
+  "name": "promise-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "rollup --c -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^11.0.1",
+    "rollup": "^2.36.1",
+    "rollup-plugin-typescript2": "^0.29.0",
+    "typescript": "^4.1.3"
+  }
+}
